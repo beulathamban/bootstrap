@@ -1,0 +1,64 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+/* .myBackground{
+  background: lightblue;
+} */
+
+body{
+  color:#600080;
+}
+.myImage{
+  margin-left: 23%;
+  height: 80%;
+  width:auto;
+
+}
+.myPara{
+  font-family: Helvetica;
+  font-size: 18px;
+}
+.bikeTitle{
+  background: cyan;
+}
+.btnTeal{
+  background: #20B2AA	;
+  color:purple;
+  font-weight:bold;
+}
+.purple{
+  color:#800080;
+}
+
+.teal{
+  color:#20B2AA	;
+}
+
+.bg-purple{
+  background: #600080;
+}
+.bg-teal{
+  background: #20B2AA	;
+}
+.navbar-nav a{
+  font-size: 1.5rem;
+}
+.myBorder{
+  border : 2px solid #20B2AA;
+}
+myBackground{
+  background: #abc;
+}
+.myLayer{
+  z-index:2;
+  position: relative;
+  top: 40px;
+  left: 20px;
+}
+.img-thumbnail{
+  height:180px;
+  /* position:absolute;
+  top:100px; */
+}
